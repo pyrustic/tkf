@@ -11,7 +11,7 @@
 
 This project is part of the [Pyrustic Open Ecosystem](https://pyrustic.github.io).
 
-[Installation](#installation) | [Documentation](https://github.com/pyrustic/tkf/tree/master/docs#readme) | [Latest](https://github.com/pyrustic/tkf/releases/latest)
+[Installation](#installation) | [Documentation](https://github.com/pyrustic/tkf/tree/master/docs/modules#readme) | [Latest](https://github.com/pyrustic/tkf/releases/latest)
 
 **Table of contents**
 - [Overview](#overview)
