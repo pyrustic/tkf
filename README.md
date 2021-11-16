@@ -263,6 +263,6 @@ Some interesting links below to get started with `Python`, `Tkinter` and `SQLite
 `Note:` I am not affiliated with any of these entities. A simple web search brings them up.
 
 # Gaspium
-`Gaspium` is a high-productivity framework for building [GASP](https://github.com/pyrustic/gaspium/blob/master/docs/gasp.md) applications. Under the hood, `Gaspium` uses `TkF`. If `TkF` is C, `Gaspium` would be Python.
+`Gaspium` is a high-productivity framework for building [GASP](https://github.com/pyrustic/gaspium/blob/master/docs/whitepaper.md) applications. Under the hood, `Gaspium` uses `TkF`. If `TkF` is C, `Gaspium` would be Python.
 
 Discover [Gaspium](https://github.com/pyrustic/gaspium) !
