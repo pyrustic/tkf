@@ -91,7 +91,7 @@ app.start()
 And this is what it looks like:
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/pyrustic/misc/master/assets/tkf/example.png" alt="Figure" width="314" height="142">
+    <img src="https://raw.githubusercontent.com/pyrustic/misc/master/assets/tkf/example.png" alt="Figure" width="314">
     <p align="center">
     <i> Example </i>
     </p>
@@ -220,7 +220,7 @@ if __name__ == "__main__":
 And this is what it looks like:
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/pyrustic/misc/master/assets/tkf/demo.png" alt="Figure" width="514" height="342">
+    <img src="https://raw.githubusercontent.com/pyrustic/misc/master/assets/tkf/demo.png" alt="Figure" width="514">
     <p align="center">
     <i> Demo </i>
     </p>
