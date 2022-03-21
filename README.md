@@ -1,3 +1,7 @@
+**This project is deprecated. Please use [Gaspium](https://github.com/pyrustic/gaspium) instead. Gaspium is a better framework for a lot of reasons**
+
+<br><br>
+
 <!-- Cover -->
 <div align="center">
     <img src="https://raw.githubusercontent.com/pyrustic/misc/master/assets/tkf/cover.png" alt="Figure" width="970">

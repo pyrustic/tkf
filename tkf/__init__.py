@@ -3,7 +3,7 @@ import sys
 import platform
 import tkinter as tk
 import tkutil
-from viewable import Viewable, CustomView
+from viewable import Viewable
 from tkf.private.enhance_tk import EnhanceTk
 
 
@@ -246,7 +246,7 @@ class App:
         self._theme = theme
         if not self._theme:
             return
-        self._theme.target(self._root)
+        self._theme.apply(self._root)
 
     def _install_view(self, view, is_refresh=False):
         self._view = self._get_view(view)
